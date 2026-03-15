@@ -9,7 +9,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-public class baekjoon1920 {
+public class Baekjoon1920 {
 
 	public static void main(String[] args) throws IOException {
 		var br = new BufferedReader(new InputStreamReader(System.in));
